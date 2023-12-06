@@ -29,8 +29,7 @@ var listPlant = [
         'Sunflowers are known for their tall height and large, yellow flower heads. They are commonly grown for their aesthetic appeal and oil-producing seeds.',
     lifespan: 'Annual',
     nativeHabitat: 'North America',
-    imageUtama:
-        'https://unsplash.com/photos/macro-photography-of-sunflower-oO62CP-g1EA',
+    imageUtama: 'https://source.unsplash.com/featured/?sunflower',
     imageUrls: [
       'https://images.unsplash.com/photo-1536633125620-8a3245c11ffa?q=80&w=1589&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       'https://source.unsplash.com/featured/?sunflower2',
