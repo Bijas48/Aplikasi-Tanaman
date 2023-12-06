@@ -19,8 +19,8 @@ class SplashScreen extends StatelessWidget {
                 borderRadius: BorderRadius.circular(30),
                 child: SizedBox(
                   // margin: EdgeInsets.all(20),
-                  height: 350,
-                  width: 250,
+                  height: MediaQuery.of(context).size.height * 2 / 5,
+                  width: MediaQuery.of(context).size.height * 1 / 3,
                   child: Image.asset(
                     "images/PohonAwal.png",
                     fit: BoxFit.cover,

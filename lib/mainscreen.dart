@@ -14,6 +14,7 @@ class MainScreen extends StatelessWidget {
         appBar: AppBar(
           toolbarHeight: 71,
           backgroundColor: Color(0xFF558B2F),
+          foregroundColor: Colors.white,
           title: Container(
             alignment: Alignment.center,
             padding: EdgeInsets.all(5),
